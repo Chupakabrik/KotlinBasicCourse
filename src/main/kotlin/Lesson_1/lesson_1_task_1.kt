@@ -1,6 +1,6 @@
 package Lesson_1
 
 fun main(){
-
-    println("Test1")
+    var orderAmount: Int = 75
+    var thankfulText: String =  "Спасибо, что совершили покупку у нас!"
 }
